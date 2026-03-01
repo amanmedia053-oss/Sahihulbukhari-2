@@ -55,10 +55,10 @@ export const AboutUsDialog: React.FC<AboutUsDialogProps> = ({ isOpen, onClose })
               </div>
               <p className="text-gray-600 font-bold">عبیدالله غفاري</p>
               <div className="grid grid-cols-2 gap-3">
-                <SocialButton icon={Facebook} label="فیسبوک" href="https://facebook.com" color="bg-blue-600" />
-                <SocialButton icon={MessageCircle} label="واټساپ" href="https://wa.me/123456789" color="bg-green-500" />
-                <SocialButton icon={Send} label="ټلیګرام" href="https://t.me/obaidullah" color="bg-sky-500" />
-                <SocialButton icon={Mail} label="ایمیل" href="mailto:example@gmail.com" color="bg-red-500" />
+                <SocialButton icon={Facebook} label="فیسبوک" href="https://www.facebook.com/obaidullah.ghafari.18" color="bg-blue-600" />
+                <SocialButton icon={MessageCircle} label="واټساپ" href="https://wa.me/93779705897" color="bg-green-500" />
+                <SocialButton icon={Send} label="ټلیګرام" href="https://t.me/obaidkhanghafari" color="bg-sky-500" />
+                <SocialButton icon={Mail} label="ایمیل" href="mailto:obaidkhanghafari@gmail.com" color="bg-red-500" />
               </div>
             </section>
 
@@ -69,8 +69,8 @@ export const AboutUsDialog: React.FC<AboutUsDialogProps> = ({ isOpen, onClose })
               </div>
               <p className="text-gray-600 font-bold">الحاج ډاکټر فريدون احرار</p>
               <div className="grid grid-cols-2 gap-3">
-                <SocialButton icon={MessageCircle} label="اړیکه" href="https://wa.me/987654321" color="bg-green-600" />
-                <SocialButton icon={Globe} label="ویب پاڼه" href="#" color="bg-gray-700" />
+                <SocialButton icon={MessageCircle} label="واټساپ" href="https://wa.me/93771499729" color="bg-green-600" />
+                <SocialButton icon={Send} label="ټليکرام " href="https://t.me/ahrarafghan729" color="bg-sky-500" />
               </div>
             </section>
 
@@ -81,7 +81,7 @@ export const AboutUsDialog: React.FC<AboutUsDialogProps> = ({ isOpen, onClose })
               </div>
               <p className="text-gray-600 font-bold">د اسلامي کاريالونو څانګه</p>
               <div className="grid grid-cols-2 gap-3">
-                <SocialButton icon={Send} label="ټلیګرام چینل" href="https://t.me/islamicapps" color="bg-sky-600" />
+                <SocialButton icon={Send} label="ټلیګرام چینل" href="https://t.me/obaidapp" color="bg-sky-600" />
                 <SocialButton icon={MessageCircle} label="واټساپ چینل" href="https://whatsapp.com/channel/abc" color="bg-green-500" />
               </div>
             </section>
